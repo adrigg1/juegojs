@@ -1,1 +1,6 @@
-
+.doodlecanvas {
+    width: 800px;
+    height: 600px;
+    background-image: url('assets/imagenes/bg_layer3.png');
+    background-size: cover; /
+}
